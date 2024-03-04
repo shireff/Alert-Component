@@ -1,0 +1,154 @@
+.alert-info {
+  border: 2px dotted #646cff;
+  border-radius: 0.8rem;
+  padding: 1.3rem;
+  background: rgba(100, 108, 255, 0.08);
+  color: #bcc0ff;
+}
+.alert-info .alert-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.alert-info .alert-header .title {
+  display: flex;
+  align-items: center;
+  font-size: 1.2rem;
+  text-align: start;
+}
+.alert-info .alert-header svg {
+  margin-right: 0.8rem;
+}
+.alert-info .alert-header .close {
+  cursor: pointer;
+}
+.alert-info p {
+  margin-top: 1.2rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+}
+
+.alert-defulte {
+  border: 2px dotted #c8c8c8;
+  border-radius: 0.8rem;
+  padding: 1.3rem;
+  background: rgba(29, 31, 32, 0.71);
+  color: #c8c8c8;
+}
+.alert-defulte .alert-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.alert-defulte .alert-header .title {
+  display: flex;
+  align-items: center;
+  font-size: 1.2rem;
+  text-align: start;
+}
+.alert-defulte .alert-header svg {
+  margin-right: 0.8rem;
+}
+.alert-defulte .alert-header .close {
+  cursor: pointer;
+}
+.alert-defulte p {
+  margin-top: 1.2rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+}
+
+.alert-warning {
+  border: 2px dotted rgba(255, 213, 0, 0.793);
+  border-radius: 0.8rem;
+  padding: 1.3rem;
+  background: rgba(255, 107, 23, 0.05);
+  color: #fcd253;
+}
+.alert-warning .alert-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.alert-warning .alert-header .title {
+  display: flex;
+  align-items: center;
+  font-size: 1.2rem;
+  text-align: start;
+}
+.alert-warning .alert-header svg {
+  margin-right: 0.8rem;
+}
+.alert-warning .alert-header .close {
+  cursor: pointer;
+}
+.alert-warning p {
+  margin-top: 1.2rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+}
+
+.alert-error {
+  border: 2px dotted rgba(255, 25, 0, 0.322);
+  border-radius: 0.8rem;
+  padding: 1.3rem;
+  background: rgba(192, 29, 29, 0.15);
+  color: rgba(239, 141, 141, 0.9803921569);
+}
+.alert-error .alert-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.alert-error .alert-header .title {
+  display: flex;
+  align-items: center;
+  font-size: 1.2rem;
+  text-align: start;
+}
+.alert-error .alert-header svg {
+  margin-right: 0.8rem;
+}
+.alert-error .alert-header .close {
+  cursor: pointer;
+}
+.alert-error p {
+  margin-top: 1.2rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+}
+
+.alert-success {
+  border: 2px dotted rgba(0, 255, 0, 0.322);
+  border-radius: 0.8rem;
+  padding: 1.3rem;
+  background: rgba(246, 238, 9, 0.127);
+  color: rgba(122, 207, 88, 0.8392156863);
+}
+.alert-success .alert-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.alert-success .alert-header .title {
+  display: flex;
+  align-items: center;
+  font-size: 1.2rem;
+  text-align: start;
+}
+.alert-success .alert-header svg {
+  margin-right: 0.8rem;
+}
+.alert-success .alert-header .close {
+  cursor: pointer;
+}
+.alert-success p {
+  margin-top: 1.2rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+}/*# sourceMappingURL=alert.css.map */
